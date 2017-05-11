@@ -83,14 +83,13 @@
 				<div class="col-md-6" style="text-align:center;padding:1em;">
 					<h3><i class="fa fa-rocket" aria-hidden="true"></i>快速搜尋</h4>
 					<hr>
-					<select class="selectpicker" id="sp">
-						<option>Mustard</option>
-						<option>Ketchup</option>
-						<option>Relsh</option>
+					<select class="selectpicker show-tick" data-size="10" data-live-search="true" id="sp">
 					</select>
-					<!--canvas id="myChart" width="400" height="400"></canvas-->	
+					<a class="btn btn-primary" id="search" style="padding: 0.6em 0 0.6em 0.9em;"><i class="fa fa-search">Search</i></a>
+					
 				</div>
-				<div class="col-md-12" id="result"></div>	
+				<div class="col-md-12" id="result"></div>
+				<canvas id="myChart" width="400" height="400"></canvas>	
 			</div>
 		</div>
 	</body>
