@@ -155,7 +155,7 @@
 	?>
 	
 	<div style="text-align:center;">
-		<a href="IPM25.php"><button>各地區即時PM2.5</button></a>
+		<a href="IPM25.html"><button>各地區即時PM2.5</button></a>
 		<a href="warning.php"><button>今日警告</button></a>
 	</div>
 	</body>

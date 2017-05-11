@@ -223,7 +223,7 @@
 		
 	</div>
 	<div style="text-align:center;">
-		<a href="IPM25.php"><button>各地區即時PM2.5</button></a>
+		<a href="IPM25.html"><button>各地區即時PM2.5</button></a>
 		<a href="personpage.php"><button>歷史紀錄</button></a>
 	</div>
 </body>
